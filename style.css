@@ -1,0 +1,38 @@
+  body{
+    background-color: gray;
+  } 
+ 
+ 
+ .back{
+    max-width:800px;
+    background-color:rgb(161, 228, 221);
+    margin:0 auto;
+    max-width: 800;
+    text-align: justify;
+   padding:40px; 
+   
+   
+ }
+ .possision{
+     
+     text-align:center;
+      
+ }
+ .sc{
+   background-color: yellow;
+ }
+
+.tr{
+  background-color: orangered;
+}
+
+hr{
+  
+  border: solid black 2px;
+  
+}
+.stand{
+  margin: 0 auto;
+  text-align:justify;
+  
+}
